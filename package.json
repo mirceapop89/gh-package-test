@@ -6,6 +6,9 @@
   "scripts": {
     "test": "exit 0"
   },
+  "publishConfig": {
+  "@mirceapop89:registry": "https://npm.pkg.github.com"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
